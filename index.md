@@ -2,8 +2,6 @@
 layout: home
 ---
 
-# Hello. I am a chemical engineering student.
-
 ![Francesco's Profile Picture]({{ site.baseurl }}/selfie_primo_piano.jpeg){: style="width:150px; border-radius: 50%;"}
 
 [Connect with me on LinkedIn](https://www.linkedin.com/in/francesco-minola/)
